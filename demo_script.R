@@ -7,5 +7,4 @@ y <- rnorm(500)
 
 # important feature 
 
-# Alternative 
-
+# some more work for github
